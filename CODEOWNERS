@@ -1,3 +1,4 @@
 # Any Github changes require admin approval
-/.github/** @NTNewHorizons/admin
+/.github/** @NTNewHorizons/owner
+/.github/** @NTNewHorizons/member
 
